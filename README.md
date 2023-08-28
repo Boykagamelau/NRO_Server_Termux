@@ -77,5 +77,5 @@ git clone https://github.com/Boykagamelau/NRO_Server_Termux_ && cd NRO_Server_Te
 * **THOÁT GAME VÀO LẠI SAU KHI BỊ LOAD TẠO NHÂN VẬT**
 # THÔNG TIN 
 * **ZALO, MBBANK, MOMO: 0*******
-* **YOUTUBE: [JINN](https://www.youtube.com/)**
-* **GITHUB: [JINN](GITHUB.COM/Boykagamelau)**
+* **YOUTUBE: [ẩn danh](https://www.youtube.com/)**
+* **GITHUB: [ẩn danh](GITHUB.COM/Boykagamelau)**
